@@ -1,0 +1,159 @@
+{
+ "v": 1,
+ "updatedAt": 1792587309629,
+ "pw": "55185ec8b4c5d5ee46d0653bdea6e02718f075040b1a477ca35bfaace1245473",
+ "settings": {
+  "wa": "",
+  "ribbon": "اطلب قطعتك الآن عبر واتساب  •  متجر رويا للملابس والمفروشات  •  اكتشف أقوى العروض",
+  "introVideo": "",
+  "cur": "ج.م"
+ },
+ "ads": [
+  {
+   "id": "a1",
+   "title": "تشكيلة جديدة من رويا",
+   "sub": "أزياء نسائية بتفاصيل تفرق",
+   "cta": "تسوّق النساء",
+   "cat": "women",
+   "image": "",
+   "video": ""
+  },
+  {
+   "id": "a2",
+   "title": "أقوى العروض",
+   "sub": "قطع مختارة بأسعار أقل",
+   "cta": "شاهد العروض",
+   "cat": "offers",
+   "image": "",
+   "video": ""
+  },
+  {
+   "id": "a3",
+   "title": "مفروشات رويا",
+   "sub": "لمسة دفء لكل غرفة في بيتك",
+   "cta": "تسوّق المفروشات",
+   "cat": "home",
+   "image": "",
+   "video": ""
+  }
+ ],
+ "products": [
+  {
+   "id": "s1",
+   "name": "عباية كريب سوداء",
+   "code": "W-1001",
+   "price": 850,
+   "oldPrice": 1100,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "cat": "women",
+   "offer": true,
+   "image": ""
+  },
+  {
+   "id": "s2",
+   "name": "فستان سهرة بوردو",
+   "code": "W-1002",
+   "price": 1250,
+   "oldPrice": 0,
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "s3",
+   "name": "طقم أطفال قطن",
+   "code": "K-2001",
+   "price": 320,
+   "oldPrice": 420,
+   "sizes": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "cat": "kids",
+   "offer": true,
+   "image": ""
+  },
+  {
+   "id": "s4",
+   "name": "جاكيت شتوي للأطفال",
+   "code": "K-2002",
+   "price": 480,
+   "oldPrice": 0,
+   "sizes": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "cat": "kids",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "s5",
+   "name": "قميص رجالي كلاسيك",
+   "code": "M-3001",
+   "price": 540,
+   "oldPrice": 0,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "cat": "men",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "s6",
+   "name": "بنطلون جينز رجالي",
+   "code": "M-3002",
+   "price": 690,
+   "oldPrice": 850,
+   "sizes": [
+    "30",
+    "32",
+    "34",
+    "36"
+   ],
+   "cat": "men",
+   "offer": true,
+   "image": ""
+  },
+  {
+   "id": "s7",
+   "name": "ملاية سرير قطن مزدوجة",
+   "code": "H-4001",
+   "price": 780,
+   "oldPrice": 0,
+   "sizes": [],
+   "cat": "home",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "s8",
+   "name": "طقم مفارش سرير 6 قطع",
+   "code": "H-4002",
+   "price": 1650,
+   "oldPrice": 1990,
+   "sizes": [],
+   "cat": "home",
+   "offer": true,
+   "image": ""
+  }
+ ]
+}
