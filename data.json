@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1792587651185,
+ "updatedAt": 1792587726917,
  "pw": "55185ec8b4c5d5ee46d0653bdea6e02718f075040b1a477ca35bfaace1245473",
  "settings": {
   "wa": "201130291573",
@@ -39,120 +39,311 @@
  ],
  "products": [
   {
-   "id": "s1",
-   "name": "عباية كريب سوداء",
-   "code": "W-1001",
-   "price": 850,
-   "oldPrice": 1100,
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "cat": "women",
-   "offer": true,
-   "image": ""
-  },
-  {
-   "id": "s2",
-   "name": "فستان سهرة بوردو",
-   "code": "W-1002",
-   "price": 1250,
+   "id": "mvi4ftli0j83",
+   "name": "ترنج الوردة",
+   "code": "RY-0001",
+   "price": 1300,
    "oldPrice": 0,
    "sizes": [
-    "S",
-    "M",
-    "L"
+    "[object",
+    "Object]"
    ],
    "cat": "women",
    "offer": false,
    "image": ""
   },
   {
-   "id": "s3",
-   "name": "طقم أطفال قطن",
-   "code": "K-2001",
-   "price": 320,
-   "oldPrice": 420,
-   "sizes": [
-    "2",
-    "4",
-    "6",
-    "8"
-   ],
-   "cat": "kids",
-   "offer": true,
-   "image": ""
-  },
-  {
-   "id": "s4",
-   "name": "جاكيت شتوي للأطفال",
-   "code": "K-2002",
-   "price": 480,
+   "id": "mvi4ftliem2k",
+   "name": "ترنج الزهور",
+   "code": "RY-0002",
+   "price": 950,
    "oldPrice": 0,
    "sizes": [
-    "4",
-    "6",
-    "8",
-    "10"
+    "[object",
+    "Object]"
    ],
-   "cat": "kids",
+   "cat": "women",
    "offer": false,
    "image": ""
   },
   {
-   "id": "s5",
-   "name": "قميص رجالي كلاسيك",
-   "code": "M-3001",
-   "price": 540,
+   "id": "mvi4ftli21gi",
+   "name": "ترنج جيدا",
+   "code": "RY-0003",
+   "price": 1100,
    "oldPrice": 0,
    "sizes": [
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "[object",
+    "Object]"
    ],
-   "cat": "men",
+   "cat": "women",
    "offer": false,
    "image": ""
   },
   {
-   "id": "s6",
-   "name": "بنطلون جينز رجالي",
-   "code": "M-3002",
-   "price": 690,
-   "oldPrice": 850,
-   "sizes": [
-    "30",
-    "32",
-    "34",
-    "36"
-   ],
-   "cat": "men",
-   "offer": true,
-   "image": ""
-  },
-  {
-   "id": "s7",
-   "name": "ملاية سرير قطن مزدوجة",
-   "code": "H-4001",
-   "price": 780,
+   "id": "mvi4ftli6tyt",
+   "name": "ترينج",
+   "code": "RY-0004",
+   "price": 1400,
    "oldPrice": 0,
-   "sizes": [],
-   "cat": "home",
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
    "offer": false,
    "image": ""
   },
   {
-   "id": "s8",
-   "name": "طقم مفارش سرير 6 قطع",
-   "code": "H-4002",
-   "price": 1650,
-   "oldPrice": 1990,
-   "sizes": [],
-   "cat": "home",
-   "offer": true,
+   "id": "mvi4ftlii0r6",
+   "name": "عباية همسة",
+   "code": "RY-0005",
+   "price": 730,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftlih4gh",
+   "name": "عباية شهرزاد",
+   "code": "RY-0006",
+   "price": 640,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli2r9b",
+   "name": "عباية شهرزاد",
+   "code": "RY-0007",
+   "price": 585,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli3t2n",
+   "name": "عباية اهل كايرو",
+   "code": "RY-0008",
+   "price": 500,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli3bwx",
+   "name": "عباية اهل كايرو",
+   "code": "RY-0009",
+   "price": 550,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftlieqs9",
+   "name": "عباية شهرزاد",
+   "code": "RY-0010",
+   "price": 880,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli30lv",
+   "name": "عباية شهرزاد",
+   "code": "RY-0011",
+   "price": 725,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftlihq79",
+   "name": "عباية شهرزاد",
+   "code": "RY-0012",
+   "price": 680,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli89fh",
+   "name": "عباية شهرزاد",
+   "code": "RY-0013",
+   "price": 715,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliie5w",
+   "name": "عباية شهرزاد",
+   "code": "RY-0014",
+   "price": 720,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftli6vuo",
+   "name": "عباية كارما",
+   "code": "RY-0015",
+   "price": 1115,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliqs48",
+   "name": "بيجامة الصباح707",
+   "code": "RY-0016",
+   "price": 1050,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftlikx63",
+   "name": "بيجامة ريتاج1404",
+   "code": "RY-0017",
+   "price": 970,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliriqq",
+   "name": "بيجامة بسمة2411",
+   "code": "RY-0018",
+   "price": 1400,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftlicizc",
+   "name": "بيجامة بسمة2411",
+   "code": "RY-0019",
+   "price": 870,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliarnd",
+   "name": "بيجامة ريتاج415",
+   "code": "RY-0020",
+   "price": 1180,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliqujy",
+   "name": "بيجامة ريتاج447",
+   "code": "RY-0021",
+   "price": 830,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
+   "image": ""
+  },
+  {
+   "id": "mvi4ftliwmnf",
+   "name": "بيجامة السمان327",
+   "code": "RY-0022",
+   "price": 820,
+   "oldPrice": 0,
+   "sizes": [
+    "[object",
+    "Object]"
+   ],
+   "cat": "women",
+   "offer": false,
    "image": ""
   }
  ]
