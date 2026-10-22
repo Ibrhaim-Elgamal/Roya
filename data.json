@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1792607475802,
+ "updatedAt": 1792692435286,
  "pw": "55185ec8b4c5d5ee46d0653bdea6e02718f075040b1a477ca35bfaace1245473",
  "settings": {
   "wa": "201130291573",
@@ -11,11 +11,11 @@
  "ads": [
   {
    "id": "a1",
-   "title": "تشكيلة جديدة من رويا",
+   "title": "احلى مسى على الباشمهندس احمد مصطفى",
    "sub": "أزياء نسائية بتفاصيل تفرق",
    "cta": "تسوّق النساء",
    "cat": "women",
-   "image": "",
+   "image": "mvjus1ot9kdx.jpg",
    "video": ""
   },
   {
@@ -25,7 +25,7 @@
    "cta": "شاهد العروض",
    "cat": "offers",
    "image": "",
-   "video": ""
+   "video": "mviggrfr8c9k.mp4"
   },
   {
    "id": "a3",
@@ -49,8 +49,8 @@
     "Object]"
    ],
    "cat": "women",
-   "offer": false,
-   "image": "mvig69z4dpgv.jpg"
+   "offer": true,
+   "image": "mvig9edacwhl.jpg"
   },
   {
    "id": "mvi4ftliem2k",
