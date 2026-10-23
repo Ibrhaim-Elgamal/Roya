@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1792701815939,
+ "updatedAt": 1792713860879,
  "pw": "55185ec8b4c5d5ee46d0653bdea6e02718f075040b1a477ca35bfaace1245473",
  "settings": {
   "wa": "201130291573",
@@ -11,12 +11,12 @@
  "ads": [
   {
    "id": "a1",
-   "title": "احلى مسى على الباشمهندس احمد مصطفى",
+   "title": "اهلا بك",
    "sub": "أزياء نسائية بتفاصيل تفرق",
    "cta": "تسوّق النساء",
    "cat": "women",
-   "image": "mvjus1ot9kdx.jpg",
-   "video": ""
+   "image": "",
+   "video": "mvk7e6ksyi7y.mp4"
   },
   {
    "id": "a2",
@@ -25,16 +25,16 @@
    "cta": "شاهد العروض",
    "cat": "offers",
    "image": "",
-   "video": "mviggrfr8c9k.mp4"
+   "video": "mvk7g57t3uf6.mp4"
   },
   {
    "id": "a3",
-   "title": "مفروشات رويا",
+   "title": "عبايات رويا",
    "sub": "لمسة دفء لكل غرفة في بيتك",
    "cta": "تسوّق المفروشات",
    "cat": "home",
    "image": "",
-   "video": ""
+   "video": "mvk7gzik2s9u.mp4"
   }
  ],
  "products": [
@@ -99,14 +99,15 @@
    "name": "عباية همسة",
    "code": "RY-0005",
    "price": 730,
-   "oldPrice": 0,
+   "oldPrice": 830,
    "sizes": [
-    "[object",
-    "Object]"
+    "[مقاس",
+    "اخر",
+    "XXXL]"
    ],
    "cat": "women",
-   "offer": false,
-   "image": ""
+   "offer": true,
+   "image": "mvk395toucw3.jpg"
   },
   {
    "id": "mvi4ftlih4gh",
